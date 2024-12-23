@@ -25,4 +25,4 @@ Return the sum of all the scores on the record after applying all the operations
 • A5.cpp  
 
 ## PDF File : 
-22BCS10802_MANYATA_DAY-2.pdf
+22BCS10822_Jay Ananya(Day 2).pdf
